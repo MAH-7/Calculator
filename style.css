@@ -1,0 +1,35 @@
+* {
+  font-size: medium;
+  font-weight: bold;
+  color: white;
+  background: black;
+}
+
+.display-calculation {
+  font-size: 30px;
+  margin-left: 10px;
+}
+
+button {
+  background-color: grey;
+  border: none;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  cursor: pointer;
+  margin-right: 5px;
+}
+button:hover {
+  background-color: rgb(87, 87, 87);
+}
+
+.btn1 {
+  background-color: orange;
+  border: none;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+}
+.btn1:hover {
+  background-color: rgb(185, 122, 4);
+}
